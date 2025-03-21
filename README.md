@@ -1,36 +1,39 @@
-- 👋 Hi, I’m @lmills-lab
-I'm passionate about cybersecurity and constantly exploring new ways to protect and secure systems. My GitHub is a space where I experiment with code, share projects, and contribute to the community.
+👋 Hi, I’m @lmills-lab
+I’m passionate about data analytics and love uncovering stories behind the numbers. My GitHub is a space where I explore data-driven projects, build tools, and share insights that drive smarter decisions.
 
-## 👀 I’m interested in ...
-- Cybersecurity research and threat intelligence
-- Ethical hacking and penetration testing
-- Developing secure applications
-- Open-source security tools
+👀 I’m interested in ...
+Business and customer data analysis
+Data visualization and dashboarding
+Predictive modeling and machine learning
+Automating data workflows with Python & SQL
 
-## 🌱 I’m currently learning ...
-- Advanced techniques in penetration testing
-- Incident response and digital forensics
-- Cloud security best practices
-- Threat hunting and malware analysis
+🌱 I’m currently learning ...
+Advanced data wrangling and transformation techniques
+Predictive analytics with Python (pandas, scikit-learn)
+Building interactive dashboards with Tableau & Power BI
+A/B testing and experiment design
 
-## 💞️ I’m looking to collaborate on ...
-- Open-source cybersecurity tools
-- Capture the Flag (CTF) challenges
-- Security awareness and training programs
-- Cybersecurity networking events and community engagement
+💞️ I’m looking to collaborate on ...
+Open-source data analytics projects
+Visual storytelling with data
+Building data tools or mini-apps for everyday use
+Real-world datasets and case study explorations
 
-## 📫 How to reach me ...
-- LinkedIn: https://www.linkedin.com/in/lexus-mills-7b3688310/ 
+📫 How to reach me ...
+LinkedIn: Lexus Mills
+
+😄 Pronouns:
+She/Her
+
+⚡ Fun fact:
+I love breaking down complex concepts the same way I enjoy solving escape room puzzles—one clue at a time!
 
 
-## 😄 Pronouns: ...
-- She/Her
-
-## ⚡ Fun fact: ...
-I enjoy solving complex puzzles and challenges, both in the cybersecurity realm and in escape rooms!
 
 
-<!---
-lmills-lab/lmills-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+
+
+
